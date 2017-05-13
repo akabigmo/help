@@ -1,1 +1,19 @@
+.navigation {
+  text-align:center;
+  border: 2px solid #FFF;
+  border-radius: 10px;
+  border-width:95%;
+}
 
+li {
+  font-weight: 100;
+  letter-spacing: 2px;
+  padding: 20px 0px;
+  text-transform: uppercase;
+  border: 2px solid #FFF;
+  border-width:95%;
+}
+
+  
+  
+  
